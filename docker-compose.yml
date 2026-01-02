@@ -4,4 +4,4 @@ services:
     container_name: telegraf
 
     volumes:
-      - ./config/:/etc/telegraf/
+      - ./config/:/etc/telegraf/ls /etc
